@@ -1,9 +1,23 @@
-# week3-ai-ml-nlp
+
 Week 3 Assignment – AI Tools: Scikit-learn, TensorFlow, spaCy
 # Week 3 AI Tools Assignment – PLP Academy 
 
-**By: Nimo Hussein**  
-This project demonstrates practical use of AI frameworks – including Scikit-learn, TensorFlow, and spaCy – through three key tasks: machine learning, deep learning, and natural language processing (NLP).
+**By: Nimo Hussein** 
+
+ Part 1: Theoretical Understanding (Week 3)
+Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
+TensorFlow uses static computation graphs, making it better for production and deployment. It's ideal when you're scaling models or building apps.
+PyTorch, on the other hand, uses dynamic computation graphs, which are more flexible and easier to debug — making it a favorite in research and experimentation.
+Choose TensorFlow for deployment, and PyTorch for fast development and academic work.
+
+Q2: Describe two use cases for Jupyter Notebooks in AI development.
+Experimenting with Models – Jupyter allows developers to write and test code in blocks, view outputs instantly, and make quick adjustments.
+
+Learning and Collaboration – It's widely used in AI education and collaborative research because it supports code, visualizations, and explanations in one place.
+
+Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
+spaCy provides powerful NLP capabilities like named entity recognition, part-of-speech tagging, and syntactic parsing — all using pre-trained models.
+Unlike basic string methods (like .split() or .replace()), spaCy understands the structure and meaning of language, making it much more effective for real-world language processing.
 
 
 ##  Project Overview
